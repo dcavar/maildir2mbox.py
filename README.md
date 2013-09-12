@@ -1,7 +1,7 @@
 maildir2mbox.py
 ===============
 
-(C) 2013 by [http://cavar.me/damir/](Damir Cavar)
+(C) 2013 by [Damir Cavar](http://cavar.me/damir/)
 
 
 Python implementation of a script for the conversion of most recent Evolution maildir folders to Thunderbird mbox files.
