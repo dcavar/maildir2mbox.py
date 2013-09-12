@@ -3,6 +3,11 @@ maildir2mbox.py
 
 (C) 2013 by [Damir Cavar](http://cavar.me/damir/)
 
+I used this idea:
+
+
+[Maildir to Mbox](http://yergler.net/projects/one-off/maildir-to-mbox/)
+
 
 Python implementation of a script for the conversion of most recent Evolution maildir folders to Thunderbird mbox files.
 
