@@ -9,7 +9,7 @@ I used this idea:
 [Maildir to Mbox](http://yergler.net/projects/one-off/maildir-to-mbox/)
 
 
-Python implementation of a script for the conversion of most recent Evolution maildir folders to Thunderbird mbox files.
+This is a Python implementation of a script for the conversion of most recent Evolution maildir folders to Thunderbird mbox files.
 
 Converts most recent Evolution maildir mails to the Thunderbird mbox format.
 
