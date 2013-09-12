@@ -12,6 +12,8 @@ Create for example a folder tbmboxes, and replace in the following commandline `
 
 Usage:
 
-  ./maildir2mbox.py /home/myaccount/.local/evolution/mail/local ./tbmboxes
+
+``./maildir2mbox.py /home/myaccount/.local/evolution/mail/local ./tbmboxes``
+
 
 Create in Thunderbird a folder in your local mail and copy all the content from tbmboxes to this folder. Restart Thunderbird and check the files and folders for consistancy.
